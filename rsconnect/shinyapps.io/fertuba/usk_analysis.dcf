@@ -1,0 +1,10 @@
+name: usk_analysis
+title:
+account: fertuba
+server: shinyapps.io
+appId: 174726
+bundleId: 801602
+url: https://fertuba.shinyapps.io/usk_analysis/
+when: 1493050278.10701
+asMultiple: FALSE
+asStatic: FALSE
